@@ -5,7 +5,7 @@ This application is a simple blog which is built purely using the microservices 
 - **Posts** - A service that handles creation of Posts.
 - **Comments** - A service that handles creation of Comments in a specific Post
 - **Event-Bus** - Custom message broker service built from scratch, that handles sending message/events to other services.
-- **Moderatons** - A service that detects hate speech in comments and blocks the comment if any.
+- **Moderations** - A service that detects hate speech in comments and blocks the comment if any.
 - **Query** - A service that queries posts and comments posted.
 
 ---
